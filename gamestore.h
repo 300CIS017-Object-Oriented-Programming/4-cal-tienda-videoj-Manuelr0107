@@ -4,7 +4,7 @@
 #include <string>
 using namespace std;
 
-constantes
+// constantes
 const int MAX_JUEGOS = 5;                //ATENCION (agregar mas constantes para cada producto por ejemplo juego: Codigo: 00, Nombre: Call Of Duty,  Precio: 3000 , Plataforma: XBOX)
 const int MAX_CARRITO = 10;
 
